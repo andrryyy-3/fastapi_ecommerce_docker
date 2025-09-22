@@ -1,7 +1,5 @@
-alembic.ini
 .venv
 .idea
-.env
 app/__pycache__
 app/migrations
 docker-compose.yml

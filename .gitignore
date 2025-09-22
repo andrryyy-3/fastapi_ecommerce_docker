@@ -4,3 +4,5 @@ alembic.ini
 .env
 app/__pycache__
 app/migrations
+docker-compose.yml
+app/Dockerfile

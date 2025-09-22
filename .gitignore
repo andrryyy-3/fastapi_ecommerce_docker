@@ -1,6 +1,2 @@
 .venv
 .idea
-app/__pycache__
-app/migrations
-docker-compose.yml
-app/Dockerfile
